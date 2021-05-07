@@ -24,7 +24,7 @@
         <a href="about.php">about us</a>
         <a href="signup.php">sign up</a>
         <a href="login.php">login</a>
-        <a href="help.php">User</a>
+        <a href="help.php"><?php ?>User</a>
     </nav>
      </div>
 </div>
