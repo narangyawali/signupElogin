@@ -5,7 +5,7 @@
     ?>
 
 <div class="form">
-	<form action="login.inc.php" method="POST">
+	<form action="loginAct.inc.php" method="POST">
 		<label for="email">EMAIL</label>
    
     <input type="email" name="email" placeholder="email" required>

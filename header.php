@@ -23,7 +23,7 @@
         <a href="home.php">Home</a>
         <a href="about.php">about us</a>
         <a href="signup.php">sign up</a>
-        <a href="login.php">login</a>
+        <a href="login.php">login/search</a>
         <a href="help.php"><?php ?>User</a>
     </nav>
      </div>
