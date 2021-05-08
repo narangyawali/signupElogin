@@ -7,13 +7,19 @@ ul{
     text-decoration: none;
 }
         
+.headin{
 
+   color: black;
+
+
+}
 
 .headbtn{
     display: inline;
     float: right;
     background-color: rgb(219, 219, 219);
-
+   
+    margin: auto 20%;
 }
 a{
     text-decoration: none;
